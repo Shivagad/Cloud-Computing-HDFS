@@ -15,7 +15,6 @@ public class AverageMarksDriver {
 
         Configuration conf = new Configuration();
         Job job = Job.getInstance(conf, "Student Marks Average");
-
         job.setJarByClass(MarksDriver.class);
         job.setMapperClass(MarksMapper.class);
         job.setReducerClass(MarksReducer.class);
