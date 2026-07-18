@@ -290,3 +290,7 @@ hdfs dfs -cat /output/part-r-00000
   <img src="Screenshots/IMG-20250423-WA0007.jpg" alt="Extra Screenshot" width="45%" style="margin-right: 10px;"/>
   <img src="Screenshots/IMG-20250423-WA0010.jpg" alt="Extra Screenshot" width="45%"/>
   <img src="Screenshots/IMG-20250423-WA0011.jpg" alt="Extra
+
+
+
+  Testing the branching strategy
